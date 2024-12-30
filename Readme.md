@@ -229,7 +229,7 @@ Below are some screenshots of the game and hardware setup:
 Authors
 -------
 
--   Yasser Mohamed Shaban
+-   Yaser Mohamed Shaban
 -   Abdulrahman Ahmed Tolba
 
 * * * * *
