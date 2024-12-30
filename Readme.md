@@ -224,13 +224,6 @@ Below are some screenshots of the game and hardware setup:
 
 *The player 'A' is on the bottom lane with four obstacles 'B', one of which has passed the player.*
 
-*Please place your images in the `images` folder with the filenames:*
-
--   `game_over.png`
--   `gameplay_top_lane.png`
--   `hardware_setup.png`
--   `gameplay_bottom_lane.png`
-
 * * * * *
 
 Authors
