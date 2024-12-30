@@ -67,7 +67,7 @@ To set up and run this project, you will need the following software and hardwar
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/Subway-game-Embedded-System-Project.git
+   git clone https://github.com/NightMare489/Subway-Embedded-Syastem-Project.git
    ```
 2.  Open the Project in Atmel Studio
 
